@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain-core
+langchain-google-genai
+sqlalchemy
+pymysql
+python-dotenv
+pydantic
+bandit
+ruff
+pytest
+httpx
